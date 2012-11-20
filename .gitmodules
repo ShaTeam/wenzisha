@@ -1,0 +1,6 @@
+[submodule "cllient"]
+	path = cllient
+	url = git@github.com:ShaTeam/wenzisha_client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:ShaTeam/wenzisha_server.git
